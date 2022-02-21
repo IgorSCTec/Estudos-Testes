@@ -46,15 +46,7 @@ namespace TesteCalculadora
             double resultado = valor1 + valor2;
             Console.WriteLine("O resultado é: " + resultado);
             Console.WriteLine("");
-            Console.WriteLine("Deseja fazer mais alguma operação?");
-            Console.Write("Digite Sim ou Não:");
-            //bool escolha = Convert.ToBoolean(Console.ReadLine());
-            //if (escolha = "Sim") ;
-            //{
-            Menu();
-            // }
-            // Console.WriteLine("Obrigado por utilizar a nossa Calculadora, até a próxima.")
-            Console.ReadKey();
+            OutraOperacao();
         }
 
         static void Subtracao()
@@ -70,7 +62,8 @@ namespace TesteCalculadora
             Console.WriteLine("");
             double resultado = valor1 - valor2;
             Console.WriteLine("O resultado é :" + resultado);
-            Console.ReadKey();
+            Console.WriteLine("");
+            OutraOperacao();
         }
         static void Multiplicacao()
         {
@@ -85,7 +78,8 @@ namespace TesteCalculadora
             Console.WriteLine("");
             double resultado = valor1 * valor2;
             Console.WriteLine("O resultado é :" + resultado);
-            Console.ReadKey();
+            Console.WriteLine("");
+            OutraOperacao();
         }
         static void Divisao()
         {
@@ -100,7 +94,60 @@ namespace TesteCalculadora
             Console.WriteLine("");
             double resultado = valor1 / valor2;
             Console.WriteLine("O resultado é :" + resultado);
+            Console.WriteLine("");
+            OutraOperacao();
+        }
+        static void OutraOperacao()
+        {
+            Console.WriteLine("Deseja fazer mais alguma operação?");
+            Console.Write("Digite Sim ou Não: ");
+            string escolha = Console.ReadLine();
+            
+            if (escolha == "Sim")
+            {
+                Menu();
+            }
+            
+            if (escolha == "Não")
+            {
+                Console.WriteLine("");
+                Console.WriteLine("Obrigado por utilizar a nossa Calculadora, até a próxima.");
+                Console.WriteLine("");
+                Console.WriteLine("Aperte qualque tecla para finalizar.");
+                Console.ReadKey();
+                System.Environment.Exit(0);
+            }
+            
+            if (escolha != "Sim" && escolha != "Não")
+            {
+                while (escolha != "Sim" && escolha != "Não")
+                {
+                    Console.Write("Está não é uma opção válida. Digite Sim para fazer outra operação ou Não para sair do Sistema: ");
+                    string novaEscolha = Console.ReadLine();
+                    escolha = novaEscolha;
+                }
+
+                if (escolha == "Sim")
+                {
+                    Menu();
+                }
+
+                if (escolha == "Não")
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Obrigado por utilizar a nossa Calculadora, até a próxima.");
+                    Console.WriteLine("");
+                    Console.WriteLine("Aperte qualque tecla para finalizar.");
+                    Console.ReadKey();
+                    System.Environment.Exit(0);
+                }
+            }
+
+            Console.WriteLine("Obrigado por utilizar a nossa Calculadora, até a próxima.");
+            Console.WriteLine("Aperte qualquer tecla para finalizar.");
             Console.ReadKey();
+            System.Environment.Exit(0);
+
         }
     }
 }
