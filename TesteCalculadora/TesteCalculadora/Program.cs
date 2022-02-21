@@ -6,7 +6,7 @@ namespace TesteCalculadora
     {
         static void Main(string[] args)
         {
-            //Menu();
+            Menu();
         }
 
 
