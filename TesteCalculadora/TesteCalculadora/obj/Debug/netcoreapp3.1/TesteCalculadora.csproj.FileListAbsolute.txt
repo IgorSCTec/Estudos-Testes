@@ -12,3 +12,17 @@ C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\TesteCalculadora\Test
 C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.dll
 C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.pdb
 C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.genruntimeconfig.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.deps.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.runtimeconfig.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.runtimeconfig.dev.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.dll
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\bin\Debug\netcoreapp3.1\TesteCalculadora.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.csproj.CoreCompileInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.AssemblyInfoInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.AssemblyInfo.cs
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.dll
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.genruntimeconfig.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.csproj.AssemblyReference.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\TesteCalculadora\TesteCalculadora\obj\Debug\netcoreapp3.1\TesteCalculadora.GeneratedMSBuildEditorConfig.editorconfig
