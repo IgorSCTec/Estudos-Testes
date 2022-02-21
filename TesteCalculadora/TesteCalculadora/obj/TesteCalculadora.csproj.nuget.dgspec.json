@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\ProjetoCalculadora\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj": {}
+    "D:\\Drive\\GitHub\\GitHub\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\ProjetoCalculadora\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj": {
+    "D:\\Drive\\GitHub\\GitHub\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ProjetoCalculadora\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj",
+        "projectUniqueName": "D:\\Drive\\GitHub\\GitHub\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj",
         "projectName": "TesteCalculadora",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\ProjetoCalculadora\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\ProjetoCalculadora\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\obj\\",
+        "projectPath": "D:\\Drive\\GitHub\\GitHub\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\TesteCalculadora.csproj",
+        "packagesPath": "C:\\Users\\igor.costa.DISTRIFILM\\.nuget\\packages\\",
+        "outputPath": "D:\\Drive\\GitHub\\GitHub\\Estudos-Testes\\TesteCalculadora\\TesteCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\igor.costa.DISTRIFILM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
