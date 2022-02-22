@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace TesteCalculadora
 {
@@ -12,6 +13,7 @@ namespace TesteCalculadora
 
         static void Menu()
         {
+            Console.Clear();
             Console.WriteLine("Calculadora");
             Console.WriteLine("");
             Console.WriteLine("1 - Soma");
@@ -21,15 +23,28 @@ namespace TesteCalculadora
             Console.WriteLine("");
             Console.Write("Escolha a opção desejada: ");
 
-            int opcao = Int32.Parse(Console.ReadLine());
+            int opcao;
 
-            switch (opcao)
+            while (!int.TryParse(Console.ReadLine(), out opcao))
+            {
+                Console.WriteLine("");
+                Console.Write("Essa não é uma opção válida. Por gentileza selecionar a operação que deseja.");
+                Thread.Sleep(1000);
+                Menu();
+            }
+
+                switch (opcao)
             {
                 case 1: Soma(); break;
                 case 2: Subtracao(); break;
                 case 3: Multiplicacao(); break;
                 case 4: Divisao(); break;
-            }
+                default:
+                    Console.WriteLine("");
+                    Console.Write("Essa não é uma opção válida. Por gentileza selecionar a operação que deseja.");
+                    Thread.Sleep(1000);
+                    Menu(); break;                   
+;            }
         }
 
         static void Soma()
@@ -93,13 +108,26 @@ namespace TesteCalculadora
             double valor2 = double.Parse(Console.ReadLine());
             Console.WriteLine("");
             double resultado = valor1 / valor2;
-            Console.WriteLine("O resultado é :" + resultado);
-            Console.WriteLine("");
-            OutraOperacao();
+            //Console.WriteLine(double.IsInfinity(resultado));
+            if (double.IsInfinity(resultado) == true || double.IsNaN(resultado) == true)
+            {
+                Console.WriteLine("Divisão por 0 é impossível.");
+                Console.WriteLine("");
+                Console.WriteLine("Digite números diferentes.");
+                Thread.Sleep(2000);
+                Divisao();
+            }
+            else
+            {
+                Console.WriteLine("O resultado é :" + resultado);
+                Console.WriteLine("");
+                OutraOperacao();
+            }
         }
         static void OutraOperacao()
         {
             Console.WriteLine("Deseja fazer mais alguma operação?");
+            Console.WriteLine("");
             Console.Write("Digite Sim ou Não: ");
             string escolha = Console.ReadLine();
             
