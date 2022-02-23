@@ -108,7 +108,6 @@ namespace TesteCalculadora
             double valor2 = double.Parse(Console.ReadLine());
             Console.WriteLine("");
             double resultado = valor1 / valor2;
-            //Console.WriteLine(double.IsInfinity(resultado));
             if (double.IsInfinity(resultado) == true || double.IsNaN(resultado) == true)
             {
                 Console.WriteLine("Divisão por 0 é impossível.");
