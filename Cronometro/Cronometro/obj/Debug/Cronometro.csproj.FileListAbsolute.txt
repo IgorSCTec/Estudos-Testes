@@ -1,0 +1,7 @@
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
