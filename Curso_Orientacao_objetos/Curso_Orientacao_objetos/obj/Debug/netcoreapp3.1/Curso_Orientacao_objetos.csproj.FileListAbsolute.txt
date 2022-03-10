@@ -1,0 +1,14 @@
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.deps.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.runtimeconfig.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.runtimeconfig.dev.json
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.dll
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\bin\Debug\netcoreapp3.1\Curso_Orientacao_objetos.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.csproj.AssemblyReference.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.AssemblyInfoInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.AssemblyInfo.cs
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.csproj.CoreCompileInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.dll
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\Curso_Orientacao_objetos\Curso_Orientacao_objetos\obj\Debug\netcoreapp3.1\Curso_Orientacao_objetos.genruntimeconfig.cache
