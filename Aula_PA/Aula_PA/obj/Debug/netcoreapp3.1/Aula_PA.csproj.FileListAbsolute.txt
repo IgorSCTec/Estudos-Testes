@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.exe
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.deps.json
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.runtimeconfig.json
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.dll
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\bin\Debug\netcoreapp3.1\Aula_PA.pdb
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.dll
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.pdb
+C:\Users\Usuario\Desktop\ProjetoCalculadora\Estudos-Testes\Aula_PA\Aula_PA\obj\Debug\netcoreapp3.1\Aula_PA.genruntimeconfig.cache
