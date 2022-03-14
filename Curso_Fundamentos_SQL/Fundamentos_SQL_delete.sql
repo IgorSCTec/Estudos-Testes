@@ -1,4 +1,4 @@
---select top100 from [Categoria]
+select top100 from [Categoria]
 
 DELETE FROM
     [Categoria]
