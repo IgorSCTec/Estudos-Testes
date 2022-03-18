@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #C0C0C0;
+}
+
+/*#bodyindex {
+	background-image: url(img/fundo.jpg);
+	background-size: 100%;
+}*/
+
+.navmenu ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+.navmenu ul{
+	background-color: black;
+	color: white;
+	list-style: none;
+	padding:0px;
+	height: 6vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+.navmenu ul li a{
+	padding: 2px 100px;
+}
+
+.imgs{ 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top:8%;
+}
+
+.imgs div{
+	padding: 2px 40px;
+}
+
+.imgs div img{
+	height:200px;
+	width: 200px;
+	border:solid 2px black;
+}
+
+.imgs div h1{
+	text-align: center;
+}
+
+.receitas {
+	text-decoration: none;
+	color: black;
+}
+
+.ulreceitas {
+	list-style: none;
+	padding-top: 1px;
+	left: 5%;
+	position: relative;
+	margin-left: 70px;
+	margin-top: 0px;
+}
+
+.ulreceitas li{
+	margin-top: 10px;
+}
+
+.divreceitas1 {
+	
+	margin-left: -5%;
+}
+
+.divreceitas2 {
+	margin-top: -4%;
+	margin-left: 15%;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	background-color: black;
+	width: 100%;
+	height: 6vh;
+}
+
+.redes ul {
+	color: white;
+	display: flex;
+	justify-content: right;
+	list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.redes ul li {
+	padding: 15px 10px;
+}
+
+#divfooter p {
+	color: white;
+	float: left;
+	margin-left: 50px;
+	padding-top: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
