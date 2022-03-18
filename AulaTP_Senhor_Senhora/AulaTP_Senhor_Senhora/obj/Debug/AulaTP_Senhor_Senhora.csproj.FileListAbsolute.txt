@@ -1,0 +1,10 @@
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\bin\Debug\AulaTP_Senhor_Senhora.exe.config
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\bin\Debug\AulaTP_Senhor_Senhora.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\bin\Debug\AulaTP_Senhor_Senhora.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.csproj.AssemblyReference.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.Form1.resources
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.Properties.Resources.resources
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.csproj.GenerateResource.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.csproj.CoreCompileInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\AulaTP_Senhor_Senhora\AulaTP_Senhor_Senhora\obj\Debug\AulaTP_Senhor_Senhora.pdb
