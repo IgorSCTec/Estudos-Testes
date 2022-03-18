@@ -1,0 +1,10 @@
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\bin\Debug\Converter_Moeda.exe.config
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\bin\Debug\Converter_Moeda.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\bin\Debug\Converter_Moeda.pdb
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.csproj.AssemblyReference.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.Form1.resources
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.Properties.Resources.resources
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.csproj.GenerateResource.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.csproj.CoreCompileInputs.cache
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.exe
+D:\Drive\GitHub\GitHub\Estudos-Testes\Converter_Moeda\Converter_Moeda\obj\Debug\Converter_Moeda.pdb

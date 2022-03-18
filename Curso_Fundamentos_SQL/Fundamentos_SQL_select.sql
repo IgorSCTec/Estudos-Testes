@@ -33,3 +33,10 @@ SELECT TOP 100
 FROM
     [Curso]
 
+SELECT TOP 100
+    *
+FROM
+    [Curso]
+WHERE
+    [Nome] Like 'Fundamentos%'
+
