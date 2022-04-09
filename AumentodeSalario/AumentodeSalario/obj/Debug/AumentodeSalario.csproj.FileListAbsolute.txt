@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe.config
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.pdb
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.Form1.resources
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.exe
+C:\Users\Usuario\Desktop\1\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.pdb
