@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\bin\Debug\Rotulo_CPF_CNPJ.exe.config
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\bin\Debug\Rotulo_CPF_CNPJ.exe
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\bin\Debug\Rotulo_CPF_CNPJ.pdb
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.Form1.resources
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.exe
+C:\Users\Usuario\Desktop\1\Rotulo_CPF_CNPJ\Rotulo_CPF_CNPJ\obj\Debug\Rotulo_CPF_CNPJ.pdb
