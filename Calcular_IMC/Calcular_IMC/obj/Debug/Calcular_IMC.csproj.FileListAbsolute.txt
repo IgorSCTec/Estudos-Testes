@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.exe.config
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.exe
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.pdb
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.Form1.resources
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.Properties.Resources.resources
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.exe
+C:\Users\Usuario\Desktop\1\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.pdb

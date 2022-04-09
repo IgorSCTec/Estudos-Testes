@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe.config
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\bin\Debug\Mercadinho.exe
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\bin\Debug\Mercadinho.pdb
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.lblValor.resources
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.Properties.Resources.resources
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.exe
+C:\Users\Usuario\Desktop\1\Mercadinho\Mercadinho\obj\Debug\Mercadinho.pdb
